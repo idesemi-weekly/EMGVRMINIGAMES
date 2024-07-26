@@ -1,4 +1,10 @@
-# EMGVRMINIGAMES
+# VRxEMG
+
+**This game is a multiplayer WarioWare-like that uses VR for the display and EMG for the input ! Here's a little GIF presentation of the game :**  
+
+
+![ezgif-1-3734a70fa3](https://github.com/user-attachments/assets/8d47364c-e549-408a-89e6-3b2de164ba5f)  
+
 
 Only Local Multiplayer is available and we have no plan to make an online release, too complex to handle with EMGs and we will need to have intrusive permissions to make this work, which goes agaisnt our principles.
 
