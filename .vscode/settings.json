@@ -51,6 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "EMGVRMINIGAMES.sln",
+    "dotnet.defaultSolution": "VRxEMG.sln",
     "C_Cpp.dimInactiveRegions": false
 }
