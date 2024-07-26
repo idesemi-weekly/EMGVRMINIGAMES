@@ -47,19 +47,19 @@ Only Local Multiplayer is available and we have no plan to make an online releas
 
 - The game is still in development, so some features may not work as intended, we also plan to add more and more microgames to it.
 
+- Feel free to visit the [wiki](https://github.com/idesemi-weekly/EMGVRMINIGAMES/wiki) if you have any questions or just want to know more about the game !
+
+- Contact : pur1rin on Discord
+
 
 ## Authors :
 
 - [Dylan THOMAS](https://github.com/Dylouwu) : VR code implementation and microgame developer
 
-- [Valentin CAZIN](https://github.com/ItsMyRainbow) : EMG implementation and microgame developer
+- [Valentin CAZIN](https://github.com/ItsMyRainbow) : EMG implementation and concept
 
 
 ## License :
 
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-
-## Estimated pre-release date :
-
-#### - August 2024 (v0.1.0)
