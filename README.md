@@ -1,4 +1,4 @@
-# EMGVRMINIGAMES
+# VRxEMG
 
 **This game is a multiplayer WarioWare-like that uses VR for the display and EMG for the input ! Here's a little GIF presentation of the game :**  
 
