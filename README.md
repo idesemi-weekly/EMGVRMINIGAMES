@@ -36,7 +36,7 @@ Only Local Multiplayer is available and we have no plan to make an online releas
 
 4. Run the server executable on your computer, **MAKE SURE THE GAME IS FOCUSED ON OR THE INPUT WON'T WORK**.
 
-5. Run the game on the VR headsets (either through the APKs that were sideloaded on the headsets or with the EXEs each on a different computer **NOT RECOMMENDED**).
+5. Run the game on the VR headsets through the APKs that were sideloaded on the headsets. (EXE builds will be available for v1.0, but are **NOT RECOMMENDED**).
 
 6. Enjoy !
 
