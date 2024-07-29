@@ -1139,17 +1139,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3709614871881509138, guid: 8b5bdd277bdc1794abd4966da42c4716, type: 3}
   m_PrefabInstance: {fileID: 4126300808027154495}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &539591217 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6968815815301105567, guid: 8b5bdd277bdc1794abd4966da42c4716, type: 3}
-  m_PrefabInstance: {fileID: 4126300808027154495}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dce8ad4f5c89f874898dd84010983693, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &545203844
 GameObject:
   m_ObjectHideFlags: 0
@@ -4672,7 +4661,7 @@ MonoBehaviour:
   check2: {fileID: 103220623}
   Player1Ready: {fileID: -6320804495217546129, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   Player2Ready: {fileID: 2370704253290164699, guid: c348712bda248c246b8c49b3db54643f, type: 3}
-  fadeScreen: {fileID: 539591217}
+  fadeScreen: {fileID: 4126300808027154496}
 --- !u!4 &1915963979
 Transform:
   m_ObjectHideFlags: 0
@@ -4818,6 +4807,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b5bdd277bdc1794abd4966da42c4716, type: 3}
+--- !u!114 &4126300808027154496 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2576794869355089316, guid: 8b5bdd277bdc1794abd4966da42c4716, type: 3}
+  m_PrefabInstance: {fileID: 4126300808027154495}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 573a655a74355a24ea9c1862a677c70e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
